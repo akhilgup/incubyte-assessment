@@ -45,7 +45,7 @@ class EmployeeTest < ActiveSupport::TestCase
   end
 
   test "rejects invalid email format" do
-    ["plaintext", "@no-local.com", "spaces in@email.com"].each do |bad_email|
+    [ "plaintext", "@no-local.com", "spaces in@email.com" ].each do |bad_email|
       @employee.email = bad_email
       assert_not @employee.valid?, "#{bad_email} should be invalid"
     end

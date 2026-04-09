@@ -2,6 +2,10 @@
 
 A minimal, end-to-end salary management application built for an HR Manager to manage 10,000 employees and gain salary insights across countries and job titles.
 
+## Demo
+
+https://github.com/user-attachments/assets/ede37eb9-d90d-4093-b917-d93b1380cfe5
+
 ## Tech Stack
 
 - **Backend:** Ruby on Rails 8 (API mode within a monolith)

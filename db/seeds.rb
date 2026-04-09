@@ -13,16 +13,16 @@ DEPARTMENTS = [
 ].freeze
 
 JOB_TITLES = {
-  "Engineering"     => ["Software Engineer", "Senior Software Engineer", "Staff Engineer", "Engineering Manager", "QA Engineer", "DevOps Engineer"],
-  "Product"         => ["Product Manager", "Senior Product Manager", "Product Analyst"],
-  "Design"          => ["UX Designer", "UI Designer", "Design Lead"],
-  "Marketing"       => ["Marketing Manager", "Content Strategist", "SEO Specialist", "Growth Analyst"],
-  "Sales"           => ["Account Executive", "Sales Manager", "Sales Representative", "Business Development Rep"],
-  "Human Resources" => ["HR Manager", "HR Coordinator", "Recruiter", "Talent Acquisition Lead"],
-  "Finance"         => ["Financial Analyst", "Accountant", "Finance Manager", "Controller"],
-  "Operations"      => ["Operations Manager", "Operations Analyst", "Project Manager"],
-  "Legal"           => ["Legal Counsel", "Compliance Officer", "Paralegal"],
-  "Support"         => ["Support Engineer", "Support Manager", "Customer Success Manager"]
+  "Engineering"     => [ "Software Engineer", "Senior Software Engineer", "Staff Engineer", "Engineering Manager", "QA Engineer", "DevOps Engineer" ],
+  "Product"         => [ "Product Manager", "Senior Product Manager", "Product Analyst" ],
+  "Design"          => [ "UX Designer", "UI Designer", "Design Lead" ],
+  "Marketing"       => [ "Marketing Manager", "Content Strategist", "SEO Specialist", "Growth Analyst" ],
+  "Sales"           => [ "Account Executive", "Sales Manager", "Sales Representative", "Business Development Rep" ],
+  "Human Resources" => [ "HR Manager", "HR Coordinator", "Recruiter", "Talent Acquisition Lead" ],
+  "Finance"         => [ "Financial Analyst", "Accountant", "Finance Manager", "Controller" ],
+  "Operations"      => [ "Operations Manager", "Operations Analyst", "Project Manager" ],
+  "Legal"           => [ "Legal Counsel", "Compliance Officer", "Paralegal" ],
+  "Support"         => [ "Support Engineer", "Support Manager", "Customer Success Manager" ]
 }.freeze
 
 SALARY_RANGES = {
