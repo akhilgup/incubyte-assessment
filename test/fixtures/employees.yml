@@ -1,0 +1,19 @@
+one:
+  first_name: Jane
+  last_name: Doe
+  email: jane.doe@example.com
+  job_title: Software Engineer
+  department: Engineering
+  country: United States
+  salary: 95000.00
+  hire_date: 2023-03-15
+
+two:
+  first_name: Raj
+  last_name: Patel
+  email: raj.patel@example.com
+  job_title: Product Manager
+  department: Product
+  country: India
+  salary: 75000.00
+  hire_date: 2022-07-01
